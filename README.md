@@ -1,4 +1,4 @@
-# WEEK-4---MORINGA-IP
+# MORINGA PREP - WEEK 4 INDEPENDENT PROJECT
     In this week's independent project, you will be working as a data scientist working for an electric car-sharing service company. You have been tasked to process stations data to understand electric car usage over time by solving for the following research question; 
 
 ## RESEARCH QUESTIONS: 
