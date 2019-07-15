@@ -76,8 +76,8 @@
     auto.to_csv('auto_clean.csv')
 
 ## ANSWERING THE RESEARCH QUESTIONS 
-## 1. What was the most popular hour of the day for picking up a shared electric car (Bluecar) 
-## in the city of Paris over the month of April 2018?
+
+## 1. What was the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018?
     auto[auto.City == 'Paris']  #ensuring the city is Paris 
 
 
